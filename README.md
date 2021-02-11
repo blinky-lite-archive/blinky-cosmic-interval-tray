@@ -9,5 +9,5 @@ MQTTPASSWORD=yyy
 NODEREDCONFIGSECRET=zzz  
 
 with no CR after the last line  
-serial port on rfcomm1  
+serial port on rfcomm0  
 
