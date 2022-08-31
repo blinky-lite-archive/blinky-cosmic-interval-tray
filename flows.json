@@ -245,7 +245,7 @@
     {
         "id": "3dc818b4.124aa8",
         "type": "serial-port",
-        "serialport": "/dev/rfcomm0",
+        "serialport": "$(SERIALPORT)",
         "serialbaud": "115200",
         "databits": "8",
         "parity": "none",
@@ -300,7 +300,7 @@
         "z": "5f562f66.a301e",
         "name": "",
         "serial": "3dc818b4.124aa8",
-        "x": 760,
+        "x": 770,
         "y": 460,
         "wires": []
     },
